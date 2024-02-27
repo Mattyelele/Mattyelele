@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mattyelele
-- 👀 The languages I use are C# andJS
+- 👀 The languages I use are C# and nodeJS
 - 📫 You can reach me through discord. Mattyelele
 
 <!---
